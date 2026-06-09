@@ -130,7 +130,14 @@ If Gemini API fails (timeout / rate limit), the system returns all CV metrics no
 
 
 ### 📤 Upload Screen
-<img width="1909" height="954" alt="Screenshot 2026-06-09 125051" src="https://github.com/user-attachments/assets/20676885-7852-475e-92c8-34d6131b31c2" /
+### Crack Detection
+<img width="1909" height="954" alt="Screenshot 2026-06-09 125051" src="https://github.com/user-attachments/assets/fe09bec2-86b7-430e-b970-3d7bdae751f1" />
+
+### White Coating Detection 
+<img width="1919" height="996" alt="Screenshot 2026-06-09 124818" src="https://github.com/user-attachments/assets/5972331a-120b-49f3-8093-a36944186bad" />
+
+### Mantle Score
+<img width="1893" height="993" alt="Screenshot 2026-06-09 124431" src="https://github.com/user-attachments/assets/734003a2-484c-42a4-92cd-45b4b26623eb" />
 
 
 ---
