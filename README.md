@@ -126,16 +126,12 @@ If Gemini API fails (timeout / rate limit), the system returns all CV metrics no
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+<img width="1914" height="974" alt="image" src="https://github.com/user-attachments/assets/acdb8e91-b9a3-4f87-ba35-74a1549492f5" />
+
 
 ### 📤 Upload Screen
-![Upload](screenshots/upload.png)
+<img width="1909" height="954" alt="Screenshot 2026-06-09 125051" src="https://github.com/user-attachments/assets/20676885-7852-475e-92c8-34d6131b31c2" /
 
-### 📊 Analysis Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 🔧 Swagger API Docs
-![Swagger](screenshots/swagger.png)
 
 ---
 
