@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+torch
+Pillow
+matplotlib
+pandas
+requests
+segment-anything
+inference_sdk
+scipy
+scikit-image
